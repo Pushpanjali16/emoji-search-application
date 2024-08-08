@@ -1,1 +1,1 @@
-# emoji-search-application
+# Emoji-Search-Application
